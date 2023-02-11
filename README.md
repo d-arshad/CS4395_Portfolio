@@ -20,3 +20,9 @@ To run this program, it must be run from commandline alongside the name of the .
 Python seems very powerful for text processing, boasting many different formats with which to store strings, such as dicts, sets, tuples, and lists. It also has many easy to use built in functions for the purpose of text processing, and its also very easy to use imported text processing implements. I'm very new to Python so I dont have as many in depth thoughts about its strenghts/weaknesses for text processing in particular. However, from what it seems like, if you would want to work with large swathes of text to process, it would be pretty slow and very memory intensive.<br>
 <br>
 I learned a lot in this assignment, namely, how to use Python at all as a language. I've never used it before this class and while it was scary at first, Im realizing its taken me a lot less time and frusturation that I've usually had to spend learning other languages, and it feels like it's easy to use once you master the basics. In specific, I learned I/O manipulation, how to execute loops, how to print statements, how to define a class, and how to work with a dictionary.<br>
+<br>
+
+# Assignment 2
+Assignment 2 covering the basics of processing text on Python is here.<br>
+https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment2_dxa190023.py<br>
+This program takes an input of a page of text, parses through it, gives the lexical diversity of the text, finds the number of nouns and tokens in the text, and then uses the 50 most common nouns in a guessing game. 
