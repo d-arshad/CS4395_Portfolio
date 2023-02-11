@@ -24,5 +24,7 @@ I learned a lot in this assignment, namely, how to use Python at all as a langua
 
 # Assignment 2
 Assignment 2 covering the basics of processing text on Python is here.<br>
+
 https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment2_dxa190023.py<br>
+
 This program takes an input of a page of text, parses through it, gives the lexical diversity of the text, finds the number of nouns and tokens in the text, and then uses the 50 most common nouns in a guessing game. 
