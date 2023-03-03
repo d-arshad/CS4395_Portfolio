@@ -33,3 +33,10 @@ This program takes an input of a page of text, parses through it, gives the lexi
 Assignment 3 going over WordNet on Python is here.<br>
 
 https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment3_dxa190023.pdf
+
+# Assignment 4
+Assignment 4 going over N-grams is here<br>
+
+https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment4_dxa190023_part1.py
+https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment4_dxa190023_part2.py
+https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment4_dxa190023_Narrative.pdf
