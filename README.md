@@ -37,6 +37,6 @@ https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment3_dxa190023.pdf
 # Assignment 4
 Assignment 4 going over N-grams is here<br>
 
-https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment4_dxa190023_part1.py
-https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment4_dxa190023_part2.py
+https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment4_dxa190023_part1.py<br>
+https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment4_dxa190023_part2.py<br>
 https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment4_dxa190023_Narrative.pdf
