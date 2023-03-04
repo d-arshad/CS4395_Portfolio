@@ -40,3 +40,8 @@ Assignment 4 going over N-grams is here<br>
 https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment4_dxa190023_part1.py<br>
 https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment4_dxa190023_part2.py<br>
 https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment4_dxa190023_Narrative.pdf
+
+# Assignment 6
+Assignment 6 going over sentence parsing is here<br>
+
+https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment6_dxa190023.pdf
