@@ -35,13 +35,24 @@ Assignment 3 going over WordNet on Python is here.<br>
 https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment3_dxa190023.pdf
 
 # Assignment 4
-Assignment 4 going over N-grams is here<br>
+Assignment 4 going over N-grams is here.<br>
 
 https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment4_dxa190023_part1.py<br>
 https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment4_dxa190023_part2.py<br>
 https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment4_dxa190023_Narrative.pdf
 
+# Assignment 5
+Assignment 5 going over webcrawling is here.<br>
+
+https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment5_dxa190023.py<br>
+https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment5_dxa190023.pdf
+
 # Assignment 6
-Assignment 6 going over sentence parsing is here<br>
+Assignment 6 going over sentence parsing is here.<br>
 
 https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment6_dxa190023.pdf
+
+# Assignment 7
+Assignment 7 going over an ACL paper is here.<br>
+
+https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment7_dxa190023.pdf
