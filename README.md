@@ -56,3 +56,8 @@ https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment6_dxa190023.pdf
 Assignment 7 going over an ACL paper is here.<br>
 
 https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment7_dxa190023.pdf
+
+# Assignment 9
+Assignment 9 going over text classification is here.<br>
+https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment9_dxa190023.pdf<br>
+https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment9_dxa190023.png
