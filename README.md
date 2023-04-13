@@ -57,6 +57,12 @@ Assignment 7 going over an ACL paper is here.<br>
 
 https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment7_dxa190023.pdf
 
+# Assignment 8
+Assignment 8 going over the rules based chatbot I developed is here.<br>
+https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment8_dxa190023.py
+https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment8_dxa190023_Report.pdf
+https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment8_dxa190023_knowledge_base.txt
+
 # Assignment 9
 Assignment 9 going over text classification is here.<br>
 https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment9_dxa190023.pdf<br>
