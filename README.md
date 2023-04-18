@@ -66,4 +66,8 @@ https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment8_dxa190023_kno
 # Assignment 9
 Assignment 9 going over text classification is here.<br>
 https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment9_dxa190023.pdf<br>
-https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment9_dxa190023.png
+https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment9_dxa190023.png<br>
+
+# Assignment 10
+Assignment 10 going over text classification part 2 is here.<br>
+https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment10_dxa190023.pdf
