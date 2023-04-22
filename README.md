@@ -71,3 +71,7 @@ https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment9_dxa190023.png
 # Assignment 10
 Assignment 10 going over text classification part 2 is here.<br>
 https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment10_dxa190023.pdf
+
+# Assignment 11
+Assignment 11 displaying my resume, technical skills, and soft skills is here.<br>
+https://github.com/d-arshad/CS4395_Portfolio/blob/main/Assignment11_dxa190023.pdf
