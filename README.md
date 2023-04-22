@@ -1,5 +1,6 @@
 # CS4395_Portfolio
 This is my portfolio for Dr Karen Mazidi's class over Natural Language Processing.
+Human language technologies has been a wonderful course to take as an elective, and I've learned many things throughout the semester. I went into this class as a complete novice, having no knowledge on how to even use Python, but now that I'm at the end, I've learned so much about Python and using various NLP techniques, through using the NLTK, Wordnet, NumPy, and Pandas libraries. With the growing field of AI, it seems more imperative than ever to know how chatbots and human language processing works, both to apply it to future projects as well as to understand new and upcoming technology. Personally, I would love to indulge more in natural language processing, as a field it intrigues me greatly, and being able to explore it through my career would be an exciting opportunity.
 
 # Assignment 0
 Assignment 0 covering the history of and my opinion of NLP is here.<br>
